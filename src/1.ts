@@ -9,7 +9,7 @@ let point: [number, number] = [3, 1]
 // 枚举
 enum Gender {
   BOY = 5,
-  GIRL = 10
+  GIRL = 11
 }
 
 console.log(Gender.BOY, Gender.GIRL)
