@@ -33,5 +33,5 @@ function sum(num1, num2) {
 sum(1, 2);
 sum('1', '2');
 
-let liu = 3456;
+let liu = 123;
 // sum(1,'2') // error
